@@ -2,3 +2,16 @@ html *
 {
    font-family: 'Poppins', sans-serif; !important;
 }
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 27px 15px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px 1px;
+  background: #DA7E70;
+  border-radius: 210.5px;
+}
